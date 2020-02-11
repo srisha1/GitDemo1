@@ -8,4 +8,7 @@ public class JavaSample {
   public void testcase1() {
 	  // this is my first testcase
   }
+  public void testcase2(){
+	  //this is testcase2 created by different user	
+}
 }
