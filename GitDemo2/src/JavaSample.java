@@ -5,5 +5,7 @@ public class JavaSample {
 		// TODO Auto-generated method stub
        //code changes by sirisha
 	}
-
+  public void testcase1() {
+	  // this is my first testcase
+  }
 }
