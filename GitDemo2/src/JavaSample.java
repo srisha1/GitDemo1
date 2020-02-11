@@ -11,4 +11,7 @@ public class JavaSample {
   public void testcase2(){
 	  //this is testcase2 created by different user	
 }
+  public void testcase3() {
+	  //this is third testcase
+  }
 }
